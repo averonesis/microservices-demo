@@ -21,6 +21,7 @@ We'd love to see community contributions. We like to keep it simple and use Gith
 ## Screenshot
 
 ![Sock Shop frontend](https://github.com/microservices-demo/microservices-demo.github.io/raw/master/assets/sockshop-frontend.png)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faveronesis%2Fmicroservices-demo.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Faveronesis%2Fmicroservices-demo?ref=badge_shield)
 
 ## Visualizing the application
 
@@ -29,3 +30,7 @@ Use [Weave Scope](http://weave.works/products/weave-scope/) or [Weave Cloud](htt
 ![Sock Shop in Weave Scope](https://github.com/microservices-demo/microservices-demo.github.io/raw/master/assets/sockshop-scope.png)
 
 ## 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Faveronesis%2Fmicroservices-demo.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Faveronesis%2Fmicroservices-demo?ref=badge_large)
